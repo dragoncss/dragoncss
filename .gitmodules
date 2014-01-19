@@ -2,3 +2,7 @@
 	path = generic.normalize
 	url = git@github.com:dragoncss/generic.normalize.git
     ignore = dirty
+[submodule "generic.reset"]
+	path = generic.reset
+	url = git@github.com:dragoncss/generic.reset.git
+    ignore = dirty
