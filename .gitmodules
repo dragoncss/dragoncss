@@ -1,8 +1,9 @@
 [submodule "generic.normalize"]
 	path = generic.normalize
 	url = git@github.com:dragoncss/generic.normalize.git
-    ignore = dirty
 [submodule "generic.reset"]
 	path = generic.reset
 	url = git@github.com:dragoncss/generic.reset.git
-    ignore = dirty
+[submodule "generic.box-sizing"]
+	path = generic.box-sizing
+	url = git@github.com:dragoncss/generic.box-sizing.git
