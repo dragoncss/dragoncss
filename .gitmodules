@@ -1,0 +1,4 @@
+[submodule "generic.normalize"]
+	path = generic.normalize
+	url = git@github.com:dragoncss/generic.normalize.git
+    ignore = dirty
