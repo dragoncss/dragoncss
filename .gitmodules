@@ -4,9 +4,6 @@
 [submodule "generic.reset"]
 	path = generic.reset
 	url = git@github.com:dragoncss/generic.reset.git
-[submodule "generic.box-sizing"]
-	path = generic.box-sizing
-	url = git@github.com:dragoncss/generic.box-sizing.git
 [submodule "generic.clearfix"]
 	path = generic.clearfix
 	url = git@github.com:dragoncss/generic.clearfix.git
