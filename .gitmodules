@@ -28,3 +28,6 @@
 [submodule "tools.helpers"]
 	path = tools.helpers
 	url = git@github.com:dragoncss/tools.helpers.git
+[submodule "generic.box-sizing"]
+	path = generic.box-sizing
+	url = git@github.com:dragoncss/generic.box-sizing.git
