@@ -3,7 +3,7 @@
 **/
 
 html{
-    font:#{($font-size/16px)*1em}/#{$line-height / $font-size} $face-sans-serif;
+    font:#{($font-size/16px)*1em}/#{$line-height / $font-size} $sans-serif;
     overflow-y:scroll;
     min-height:100%;
 }
