@@ -1,3 +1,4 @@
 *.swp
 .sass-cache/
-dragon.css
+test.css
+test.scss

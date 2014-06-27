@@ -1,7 +1,10 @@
-$base-font-size: 16;
-$base-line-height: 24;
+// font vars
+$font-size: 16px;
+$line-height: 24px;
 
-$base-spacing-unit: $base-line-height;
-$half-spacing-unit: ($base-spacing-unit / 2);
+$face-sans-serif: Gotham, “Helvetica Neue”, Helvetica, Arial, sans-serif;
+$face-serif: Georgia;
 
-$brand-round:4;
+// spacing vars
+$base-spacing: $line-height;
+$half-spacing: $base-spacing / 2;
