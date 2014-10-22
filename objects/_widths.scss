@@ -9,7 +9,7 @@
 \*------------------------------------*/
 /**
  * If you are building a non-responsive site but would still like to use
- * csswizardry-grids, set this to ‘false’:
+ * csswizardry-grids, set this to 'false':
  */
 $responsive:            true !default;
 
@@ -49,7 +49,7 @@ $breakpoints: (
  * add and remove breakpoints at will.
  *
  * Push and pull shall only be used if `$push` and/or `$pull` and `$responsive`
- * have been set to ‘true’.
+ * have been set to 'true'.
  */
 $breakpoint-has-widths: ('palm', 'lap', 'portable', 'desk') !default;
 $breakpoint-has-push:   $breakpoint-has-widths;
@@ -58,7 +58,7 @@ $breakpoint-has-pull:   $breakpoint-has-widths;
 
 /**
  * You do not need to edit anything from this line onward; csswizardry-grids is
- * good to go. Happy griddin’!
+ * good to go. Happy griddin'!
  */
 $class-type:            unquote(".");
 
@@ -296,7 +296,7 @@ $class-type:            unquote(".");
     }
 
     @if $breakpoint-found == false {
-        @warn "Breakpoint ‘#{$media-query}’ does not exist"
+        @warn "Breakpoint '#{$media-query}' does not exist"
     }
 
 }
